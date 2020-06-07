@@ -55,3 +55,7 @@ https://stepik.org/course/58743/
 Chrome DevTools-guide (DOU)
 
 https://dou.ua/lenta/articles/chrome-dev-tools-guide/
+
+Компьютерные сети (видео-курс)
+
+https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=1
