@@ -24,6 +24,10 @@ Selenium WebDriver: полное руководство
 
 https://coursehunter.net/course/st-selenium-webdriver
 
+Tutorial Selenium WebDriver
+
+https://kreisfahrer.gitbooks.io/selenium-webdriver/content/index.html
+
 Selenium (коротко)
 
 https://habr.com/ru/post/152971/
@@ -48,7 +52,7 @@ https://www.youtube.com/watch?v=zlWiw99bBUk
 
 https://www.youtube.com/watch?v=9pBp9VDSU6M
 
-Stepik (courses)
+Stepik (courses bug)
 
 https://stepik.org/course/58743/
 
@@ -59,3 +63,9 @@ https://dou.ua/lenta/articles/chrome-dev-tools-guide/
 Компьютерные сети (видео-курс)
 
 https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=1
+
+Testing.ru
+
+http://www.protesting.ru/testing/
+
+
