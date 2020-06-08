@@ -36,6 +36,10 @@ https://habr.com/ru/post/152971/
 
 https://www.portnov.com/ru
 
+Портнов. Тестироваание (видео)
+
+https://www.youtube.com/watch?v=9ecKqmeb9eA&list=PL_CSTk3_YGZ8i3h8yai0Lp5yrtQ8ga92G 
+
 Алексей Баранцев (видео)
 
 https://www.youtube.com/watch?v=_TNh2ydpoOw
@@ -67,5 +71,3 @@ https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh
 Testing.ru
 
 http://www.protesting.ru/testing/
-
-
