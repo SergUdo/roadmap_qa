@@ -52,6 +52,10 @@ Xpath Pyton
 
 https://www.youtube.com/watch?v=zlWiw99bBUk
 
+Возможности XPath (парсинг видео)
+
+https://www.youtube.com/watch?v=E30xme75mGQ
+
 Автоматизация на пальцах (Локаторы)
 
 https://www.youtube.com/watch?v=9pBp9VDSU6M
@@ -67,6 +71,22 @@ https://dou.ua/lenta/articles/chrome-dev-tools-guide/
 Компьютерные сети (видео-курс)
 
 https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&index=1
+
+Webscraping with Ruby (video)
+
+https://www.youtube.com/watch?v=b3CLEUBdWwQ
+
+Data scraping Nokogiri (video)
+
+https://www.youtube.com/watch?v=l8XrtVHKhCE
+
+Ruby Nokogiri parse HTML document (video)
+
+https://www.youtube.com/watch?v=azhN5KyDRS0
+
+How to webscraping Ruby Nokogiri Curb (video)
+
+https://www.youtube.com/watch?v=eumekfP4IKQ
 
 Testing.ru
 
