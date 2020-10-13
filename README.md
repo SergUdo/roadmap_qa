@@ -91,3 +91,7 @@ https://www.youtube.com/watch?v=eumekfP4IKQ
 Testing.ru
 
 http://www.protesting.ru/testing/
+
+Rspec_cheatsheet_controller_spec.rb
+
+https://gist.github.com/eliotsykes/5b71277b0813fbc0df56
